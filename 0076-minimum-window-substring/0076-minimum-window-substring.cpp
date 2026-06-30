@@ -6,6 +6,9 @@ public:
         vector<int> have(256,0);
         vector<int> need(256,0);
 
+        if(m < n)
+            return "";
+
         for(int i =0; i<n; i++){
             need[t[i]]++;
         }
