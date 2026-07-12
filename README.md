@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Diya530/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diya530/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diya530/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Diya530/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Diya530/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Diya530/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Diya530/DSA/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Diya530/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diya530/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diya530/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Diya530/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Diya530/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Diya530/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Diya530/DSA/tree/master/0202-happy-number) |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Diya530/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diya530/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Diya530/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
