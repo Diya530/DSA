@@ -4,13 +4,11 @@ public:
         int n = nums.size();
 
         vector<int> prefix(n);
-
         prefix[0] = nums[0];
+        for(int i = 1; i<n; i++){
 
-        for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + nums[i];
+            prefix[i] = prefix[i-1] + nums[i];
         }
-
         return prefix;
     }
 };
