@@ -13,6 +13,7 @@ public:
             if(mp.count(prefix_sum - k)){
                 res += mp[prefix_sum - k];
             }
+            
             mp[prefix_sum]++;
         }
 
