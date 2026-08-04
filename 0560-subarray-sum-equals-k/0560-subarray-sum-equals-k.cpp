@@ -10,8 +10,8 @@ public:
         for(int num: nums){
 
             sum+=num;
-            int ques = sum-k;
-            res += mp[ques];
+            // int ques = sum-k;
+            res += mp[sum-k];
 
             mp[sum]++;
         }
