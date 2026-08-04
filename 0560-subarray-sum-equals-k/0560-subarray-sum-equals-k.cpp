@@ -10,8 +10,10 @@ public:
         for(int num: nums){
 
             sum+=num;
-            // int ques = sum-k;
-            res += mp[sum-k];
+            auto it = mp.find(sum - k);
+            if (it != mp.end()) {
+                  res += it->second; // it->second is the value (the frequency)
+            }
 
             mp[sum]++;
         }
