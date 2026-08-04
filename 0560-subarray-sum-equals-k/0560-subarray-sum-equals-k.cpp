@@ -4,19 +4,17 @@ public:
         unordered_map<int,int> mp;
         mp[0] = 1;
 
+        int sum = 0;
         int res = 0;
-        int prefix_sum = 0;
 
-        for(int num:nums){
-            prefix_sum += num;
+        for(int num: nums){
 
-            if(mp.count(prefix_sum - k)){
-                res += mp[prefix_sum - k];
-            }
-            
-            mp[prefix_sum]++;
+            sum+=num;
+            int ques = sum-k;
+            res += mp[ques];
+
+            mp[sum]++;
         }
-
         return res;
     }
 };
